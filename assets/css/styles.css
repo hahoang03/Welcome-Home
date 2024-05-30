@@ -251,13 +251,38 @@ a {
     margin-top: 230px;
 }
 
-.featured .sub-title{
+.features .sub-title{
     font-weight: 600;
     font-size: 3.5rem;
     line-height: 1;
 }
 
-.featured .row {
+.features .row {
     display: flex;
     justify-content: space-between;
+    margin-top: 15px;
 }
+
+.features .desc {
+    font-weight: 400;
+    font-size: 1;
+    line-height: 1.88;
+    color: #5a6473;
+}
+
+.features .link {
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    font-size: 1.8rem;
+    color: #0689FF;
+}
+
+.features .link .arrow {
+    margin-left: 8px;
+}
+
+
+
+
+
